@@ -1,7 +1,7 @@
 # IoTDevice
 Scripts for IoT Device
 
-BNO055 9DOF
+`BNO055 9DOF`
 
 
 5V -> VCC
